@@ -1,0 +1,11 @@
+donut
+eggplant
+carrot
+apple
+banana
+First word alphabetically:
+Apple
+Last word alphabetically:
+Eggplant
+Word with most vowels:
+Banana

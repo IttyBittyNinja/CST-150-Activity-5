@@ -1,4 +1,6 @@
-﻿using System;
+﻿// Jared L. Abrams// CST-150// October 02, 2022// This is my own work
+
+using System;
 using System.IO;
 using System.Collections.Generic;
 using System.ComponentModel;
